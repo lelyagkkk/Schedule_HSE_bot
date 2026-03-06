@@ -57,15 +57,7 @@ BookedAt — filled in by the bot
 
 The bot also supports your custom column format:
 
-День
 
-Время
-
-ФИО
-
-Номер
-
-Тг
 
 The column order is detected automatically based on the headers.
 
@@ -264,5 +256,4 @@ python -m playwright install chromium
 
 If LabShake is protected by Cloudflare, also set:
 
-LABSHAKE_BROWSER_CHANNEL=chrome# pipeline_PROBE_model
-Role of DLPFC and VMPFC in decision making under uncertainty: MEG-study
+LABSHAKE_BROWSER_CHANNEL=chrome

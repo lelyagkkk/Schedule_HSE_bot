@@ -1,0 +1,7 @@
+python-telegram-bot==21.7
+openpyxl==3.1.5
+python-dotenv==1.0.1
+yadisk==3.4.0
+requests==2.32.3
+beautifulsoup4==4.12.3
+playwright==1.52.0
